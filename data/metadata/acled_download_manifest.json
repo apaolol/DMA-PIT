@@ -1,0 +1,40 @@
+{
+  "producer": "ACLED (Armed Conflict Location & Event Data)",
+  "acquired_date": "2026-10-18",
+  "timezone": "Asia/Singapore",
+  "source_url": "https://acleddata.com/conflict-data/data-export-tool?grain=aggregated",
+  "method": "Signed-in official export, Download CSV; original bytes copied unchanged",
+  "requested_filters": {
+    "country": "Palestine",
+    "event_date_from": "2016-01-01",
+    "event_date_to": "2026-09-30",
+    "event_types": "all",
+    "grain": "aggregated"
+  },
+  "original_download_name": "ACLED Data_2026-10-18_event_date_from_2016-01-01_event_date_to_2026-09-30.csv",
+  "relative_path": "data/raw/acled_palestine_aggregated_2016_2026.csv",
+  "sha256": "fc06617863c51ef846f07afaf9924609a914333d37e31c9a7b3b4d00ab64bb25",
+  "byte_count": 1033966,
+  "rows": 7808,
+  "columns": [
+    "week",
+    "region",
+    "country",
+    "admin1",
+    "event_type",
+    "sub_event_type",
+    "events",
+    "fatalities",
+    "population_exposure",
+    "disorder_type",
+    "centroid_latitude",
+    "centroid_longitude"
+  ],
+  "week_label_min": "2015-12-26",
+  "week_label_max": "2026-09-26",
+  "event_level_access": "Unavailable: website requested additional access for this signed-in account. No event-level dataset was downloaded.",
+  "scope_note": "51 rows are coded Mediterranean Sea / Eastern Mediterranean Sea and must be excluded from the Palestine analysis; raw export preserved.",
+  "boundary_note": "Saturday week labels can cross requested date boundaries. Full-week interior view excludes both boundary buckets.",
+  "licence_url": "https://acleddata.com/terms-and-conditions",
+  "schema_url": "https://acleddata.com/use-access/how-use-acleds-aggregated-data"
+}
