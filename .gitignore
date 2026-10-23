@@ -1,0 +1,27 @@
+# Local packages, generated previews, and working files
+/tmp/
+/node_modules/
+
+# Python virtual environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
