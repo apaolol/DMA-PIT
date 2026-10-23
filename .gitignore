@@ -2,6 +2,9 @@
 /tmp/
 /node_modules/
 
+# Superseded dataset kept locally for reference
+/israel-and-palestine*.csv
+
 # Python virtual environments and caches
 .venv/
 venv/
