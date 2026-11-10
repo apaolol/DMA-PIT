@@ -1,0 +1,9 @@
+# Dependencies for DMA_PHASE2.ipynb
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+missingno==0.5.2
+scipy>=1.15
+ipython>=8
+ipykernel>=6
