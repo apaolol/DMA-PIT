@@ -1,0 +1,167 @@
+{
+  "main_figures": [
+    [
+      "M1",
+      "Fatality distributions",
+      "t1-fatalities"
+    ],
+    [
+      "M2",
+      "Event/sub-event composition",
+      "t1-types"
+    ],
+    [
+      "M3",
+      "Recording precision",
+      "t1-precision"
+    ],
+    [
+      "M4",
+      "Fatality occurrence and conditional totals",
+      "t2-severity"
+    ],
+    [
+      "M5",
+      "Precision and focal prevalence",
+      "t2-precision"
+    ],
+    [
+      "M6",
+      "Actor/sub-event combinations",
+      "t2-actor-types"
+    ],
+    [
+      "M7",
+      "Weekly correlation and categorical association",
+      "t2-association"
+    ],
+    [
+      "M8",
+      "Period rates, shares and Hypothesis A",
+      "t4-period-figure"
+    ],
+    [
+      "M9",
+      "Event types and Hypothesis B",
+      "t4-type-test"
+    ],
+    [
+      "M10",
+      "Weekly counts, anomaly markers and focal share",
+      "t5-unusual-weeks"
+    ],
+    [
+      "M11",
+      "Calendar patterns and persistence",
+      "t5-persistence"
+    ],
+    [
+      "M12",
+      "District counts and variability",
+      "t5-district-profile"
+    ],
+    [
+      "M13",
+      "Spatial maps and concentration",
+      "t5-concentration"
+    ],
+    [
+      "M14",
+      "Spatial-setting sensitivity",
+      "t5-dbscan"
+    ]
+  ],
+  "supporting_figures": [
+    [
+      28,
+      "A1",
+      "Recorded actor profiles",
+      "t1-actors",
+      29
+    ],
+    [
+      38,
+      "A2",
+      "All-event district and month counts",
+      "t1-area-time",
+      39
+    ],
+    [
+      54,
+      "A3",
+      "Fatality ECDF by focal status",
+      "t2-fatality-status",
+      55
+    ],
+    [
+      66,
+      "A4",
+      "Event-type composition by period",
+      "t2-composition",
+      67
+    ],
+    [
+      75,
+      "A5",
+      "Within-district focal prevalence",
+      "t2-district-shares",
+      76
+    ],
+    [
+      122,
+      "A6",
+      "Smaller-class sample sizes",
+      "t5-imbalance",
+      123
+    ],
+    [
+      127,
+      "A7",
+      "Highest reported fatality records",
+      "t5-fatality-review",
+      128
+    ],
+    [
+      130,
+      "A8",
+      "Timing of high-fatality flags",
+      "t5-fatality-time",
+      131
+    ],
+    [
+      144,
+      "A9",
+      "Monthly grouped count/share summary",
+      "t5-trends",
+      145
+    ],
+    [
+      160,
+      "A10",
+      "Exploratory groups of weeks",
+      "t5-week-clusters",
+      161
+    ]
+  ],
+  "additional_supporting": [
+    [
+      "A11",
+      "Focal records by weekday",
+      "t5-seasonality",
+      "The busiest weekday has about 1.11 times the count of the quietest. Counts are not adjusted for weekday exposure, so this display does not establish a weekday effect."
+    ],
+    [
+      "A12",
+      "Changing district contribution",
+      "t5-district-profile",
+      "These shares describe each district\u2019s contribution to all known-district focal events over four weeks, rather than focal/political prevalence within a district. The changing mix adds geographic context to the main district overview."
+    ],
+    [
+      "A13",
+      "Largest coordinates and recording precision",
+      "t5-concentration",
+      "The precision-1 proportion varies substantially across the largest recorded places, so the restriction removes incidents unevenly. These are counts at recorded coordinate pairs, often shared named places, rather than verified exact incident points."
+    ]
+  ],
+  "policy": "Existing plots and data only; subplot drawing functions reuse original drawing code. Supporting figures are rendered at their original computation point and displayed in the appendix to preserve variable state."
+}

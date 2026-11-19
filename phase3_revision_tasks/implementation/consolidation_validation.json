@@ -1,0 +1,12 @@
+{
+  "status": "complete",
+  "main_figures": 14,
+  "appendix_figures": 13,
+  "cells": 206,
+  "executed_code_cells": 74,
+  "internal_destinations": 55,
+  "saved_errors": 0,
+  "saved_warnings": 0,
+  "final_sha256": "2ad911a9f4448951050b4ffe2c8d29d92fb57d0ed8e9f4edfaa609b6ca0b12dc",
+  "preservation": "Reference/data hashes unchanged; analysis tables preserved, with missing saved imbalance output regenerated. Existing plot data, types, filters and calculations reused."
+}

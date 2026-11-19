@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-20",
+  "internal_links_checked": 110,
+  "missing_or_ambiguous_targets": 0,
+  "appendix_A4_target": "A4---Event-type-composition-by-period",
+  "table_interpretations_added": 28,
+  "all_local_readings_immediately_follow_one_table": true,
+  "table_outputs_unchanged": 78,
+  "figure_outputs_byte_identical": 27,
+  "executed_code_cells": 98,
+  "errors": 0,
+  "saved_warnings": 0,
+  "source_reference_hashes_unchanged": true,
+  "final_sha256": "51dcb4cf7c4b1ac0eedd49c27c4c447acf968672e125e43e0ac5e573ffc0bdad"
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "task": 2,
+    "status": "implemented; static checks passed; execution pending Task 09",
+    "validation": "Single final bibliography; no mid-report handoffs; Tasks 1-7 anchored."
+  },
+  {
+    "task": 3,
+    "status": "implemented; static checks passed; execution pending Task 09",
+    "validation": "Four CSV sources, logs, history and denominator explanations present."
+  },
+  {
+    "task": 4,
+    "status": "implemented; static checks passed; execution pending Task 09",
+    "validation": "All BQ evidence destinations resolve; direct BQ5 tables supplied."
+  },
+  {
+    "task": 5,
+    "status": "implemented; static checks passed; execution pending Task 09",
+    "validation": "Interpretations consistently separated and rewritten under explicit approval."
+  },
+  {
+    "task": 6,
+    "status": "implemented; static checks passed; execution pending Task 09",
+    "validation": "Simulation floor and eligible-history policy corrected; raw policy retained as sensitivity."
+  },
+  {
+    "task": 7,
+    "status": "implemented; static checks passed; execution pending Task 09",
+    "validation": "One loader, consolidated checks/comparison panels, distinct remaining figures."
+  },
+  {
+    "task": 8,
+    "status": "implemented; static checks passed; execution pending Task 09",
+    "validation": "Seven insights and two-family modeling plan completed with linked evidence."
+  }
+]

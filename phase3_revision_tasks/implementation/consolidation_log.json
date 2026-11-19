@@ -1,0 +1,213 @@
+{
+  "omitted_original_cells": [
+    8,
+    9,
+    11,
+    41,
+    43,
+    44,
+    45,
+    46,
+    50,
+    51,
+    52,
+    81,
+    85,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    108,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    170,
+    173,
+    174,
+    175,
+    177
+  ],
+  "retained_figures": [
+    [
+      "U1",
+      "Reported fatality distribution",
+      "t1-fatalities",
+      "Event master, all records"
+    ],
+    [
+      "U2",
+      "Event/sub-event composition",
+      "t1-types",
+      "Event master, all records"
+    ],
+    [
+      "U3",
+      "Actor labels and missingness",
+      "t1-actors",
+      "Event master, all and focal-only"
+    ],
+    [
+      "U4",
+      "Precision profiles",
+      "t1-precision",
+      "Event master and land focal incidents"
+    ],
+    [
+      "U5",
+      "District and calendar-month counts",
+      "t1-area-time",
+      "Event master, all records"
+    ],
+    [
+      "B1",
+      "Calendar-adjusted period rates",
+      "t2-period",
+      "Master political records"
+    ],
+    [
+      "B2",
+      "Fatalities by focal status",
+      "t2-fatality-status",
+      "Master political records"
+    ],
+    [
+      "B3",
+      "Fatality occurrence/conditional totals",
+      "t2-severity",
+      "Master political records; positive-only right"
+    ],
+    [
+      "B4",
+      "Precision and period focal shares",
+      "t2-precision",
+      "Master political records"
+    ],
+    [
+      "B5",
+      "Actor/sub-event cross-tab",
+      "t2-actor-types",
+      "Master focal records"
+    ],
+    [
+      "B6",
+      "Period event-type composition",
+      "t2-composition",
+      "Master political records"
+    ],
+    [
+      "B7",
+      "District-week counts",
+      "t2-district-counts",
+      "District-week; partial column masked"
+    ],
+    [
+      "B8",
+      "Weekly counts and share",
+      "t2-weekly",
+      "Gaza-week; partial marked; master pooled share"
+    ],
+    [
+      "B9",
+      "Within-district focal prevalence",
+      "t2-district-shares",
+      "District-week, complete"
+    ],
+    [
+      "B10",
+      "Spearman / categorical association",
+      "t2-association",
+      "Gaza-week complete / master political"
+    ],
+    [
+      "H1",
+      "Period and within-type shares with intervals",
+      "t4-period-figure",
+      "Master political records"
+    ],
+    [
+      "H2",
+      "Event-type shares and test residuals",
+      "t4-type-test",
+      "Master political records"
+    ],
+    [
+      "P1",
+      "Smaller-class sample sizes",
+      "t5-imbalance",
+      "Master political subsets"
+    ],
+    [
+      "P2",
+      "Largest fatality records",
+      "t5-fatality-review",
+      "Event master"
+    ],
+    [
+      "P3",
+      "Timing of fatality flags",
+      "t5-fatality-time",
+      "Master flagged records"
+    ],
+    [
+      "P4",
+      "Global versus trailing count flags",
+      "t5-unusual-weeks",
+      "Gaza-week, complete; partial shown"
+    ],
+    [
+      "P5",
+      "Month-of-week-start totals/share",
+      "t5-trends",
+      "Gaza-week, complete"
+    ],
+    [
+      "P6",
+      "Calendar months and weekdays",
+      "t5-seasonality",
+      "Gaza-week complete / master post-cutoff focal"
+    ],
+    [
+      "P7",
+      "Count/change autocorrelation",
+      "t5-persistence",
+      "Gaza-week, complete"
+    ],
+    [
+      "P8",
+      "District contribution/variability",
+      "t5-district-profile",
+      "District-week, complete"
+    ],
+    [
+      "P9",
+      "Groups of weeks",
+      "t5-week-clusters",
+      "Gaza-week, complete; derived logs/scaling"
+    ],
+    [
+      "P10",
+      "Full/precision-1 spatial comparison",
+      "t5-spatial-map",
+      "Land focal incidents and precision-1 subset"
+    ],
+    [
+      "P11",
+      "Coordinate concentration",
+      "t5-concentration",
+      "Land focal incidents and precision-1 subset"
+    ],
+    [
+      "P12",
+      "DBSCAN setting sensitivity",
+      "t5-dbscan",
+      "Land focal incidents and precision-1 subset"
+    ]
+  ],
+  "authorization": "User explicitly authorized all listed revisions, interpretation rewrites, code/plot/output changes and validation rerun on November 19, 2026."
+}

@@ -1,0 +1,759 @@
+{
+  "links": [
+    {
+      "label": "Task 6",
+      "target": "Task 6 - Answers to the business questions",
+      "mode": "Outline section reference"
+    },
+    {
+      "label": "modeling plan",
+      "target": "Task 7 - Key insights and modeling plan",
+      "mode": "Outline section reference"
+    },
+    {
+      "label": "1. Describe the data",
+      "target": "Task 1 - What does the dataset contain?",
+      "cell": 10,
+      "execution_count": 3,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "2. Compare groups",
+      "target": "Task 2 - How do groups differ?",
+      "cell": 90,
+      "execution_count": 41,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "3. Visualization register",
+      "target": "Task 3 - Main figure register",
+      "mode": "Outline section reference"
+    },
+    {
+      "label": "4. Test two hypotheses",
+      "target": "Task 4 - Test the period and event-type differences",
+      "cell": 125,
+      "execution_count": 51,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "5. Find patterns",
+      "target": "Task 5 - Which patterns deserve closer review?",
+      "cell": 142,
+      "execution_count": 58,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "6. Answer the questions",
+      "target": "Task 6 - Answers to the business questions",
+      "mode": "Outline section reference"
+    },
+    {
+      "label": "7. Plan the next phase",
+      "target": "Task 7 - Key insights and modeling plan",
+      "mode": "Outline section reference"
+    },
+    {
+      "label": "grouping-of-weeks preview",
+      "target": "Grouping complete weeks by recorded activity",
+      "cell": 187,
+      "execution_count": 76,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A1",
+      "target": "A1 - Recorded actor profiles",
+      "cell": 218,
+      "execution_count": 86,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A2",
+      "target": "A2 - All-event district and month counts",
+      "cell": 221,
+      "execution_count": 87,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Task 4, Figure M9",
+      "target": "4.3 Hypothesis B - Does focal share differ by event type?",
+      "cell": 134,
+      "execution_count": 55,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M8",
+      "target": "Figure M8 - Period rates, focal shares and within-type evidence",
+      "cell": 130,
+      "execution_count": 53,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M8",
+      "target": "Figure M8 - Period rates, focal shares and within-type evidence",
+      "cell": 130,
+      "execution_count": 53,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A3",
+      "target": "A3 - Fatality ECDF by focal status",
+      "cell": 224,
+      "execution_count": 88,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M8",
+      "target": "Figure M8 - Period rates, focal shares and within-type evidence",
+      "cell": 130,
+      "execution_count": 53,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A4",
+      "target": "A4 - Event-type composition by period",
+      "cell": 227,
+      "execution_count": 89,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M12",
+      "target": "Figure M12 - District counts, typical volume and variability",
+      "cell": 183,
+      "execution_count": 74,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A5",
+      "target": "A5 - Within-district focal prevalence",
+      "cell": 230,
+      "execution_count": 90,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M12",
+      "target": "Figure M12 - District counts, typical volume and variability",
+      "cell": 183,
+      "execution_count": 74,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M10",
+      "target": "5.3 Which Gaza-wide weeks stand out?",
+      "cell": 157,
+      "execution_count": 64,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M10",
+      "target": "5.3 Which Gaza-wide weeks stand out?",
+      "cell": 157,
+      "execution_count": 64,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A5",
+      "target": "A5 - Within-district focal prevalence",
+      "cell": 230,
+      "execution_count": 90,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Fatality distributions",
+      "target": "1.2 Reported fatalities - common values and rare extremes",
+      "cell": 26,
+      "execution_count": 11,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Event/sub-event composition",
+      "target": "1.3 Event and sub-event types",
+      "cell": 36,
+      "execution_count": 16,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Recording precision",
+      "target": "1.5 Location and date precision",
+      "cell": 68,
+      "execution_count": 31,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Fatality occurrence and conditional totals",
+      "target": "2.3 How often is a fatality recorded, and how large is the total?",
+      "cell": 96,
+      "execution_count": 43,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Precision and focal prevalence",
+      "target": "2.4 Does location precision change the focal share?",
+      "cell": 99,
+      "execution_count": 44,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Actor/sub-event combinations",
+      "target": "2.5 Which actor labels and sub-event types occur together?",
+      "cell": 102,
+      "execution_count": 45,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Weekly correlation and categorical association",
+      "target": "2.10 Which measures move together, and which categories are associated?",
+      "cell": 117,
+      "execution_count": 50,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Period rates, shares and Hypothesis A",
+      "target": "Figure M8 - Period rates, focal shares and within-type evidence",
+      "cell": 130,
+      "execution_count": 53,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Event types and Hypothesis B",
+      "target": "4.3 Hypothesis B - Does focal share differ by event type?",
+      "cell": 134,
+      "execution_count": 55,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Weekly counts, anomaly markers and focal share",
+      "target": "5.3 Which Gaza-wide weeks stand out?",
+      "cell": 157,
+      "execution_count": 64,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Calendar patterns and persistence",
+      "target": "Figure M11 - Calendar patterns versus persistence",
+      "cell": 178,
+      "execution_count": 72,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "District counts and variability",
+      "target": "Figure M12 - District counts, typical volume and variability",
+      "cell": 183,
+      "execution_count": 74,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Spatial maps and concentration",
+      "target": "Figure M13 - Spatial concentration and precision sensitivity",
+      "cell": 198,
+      "execution_count": 80,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Spatial-setting sensitivity",
+      "target": "Figure M14 - How sensitive is spatial clustering to its settings?",
+      "cell": 202,
+      "execution_count": 82,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "appendix",
+      "target": "Appendix - Supporting figures",
+      "cell": 218,
+      "execution_count": 86,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "method reference",
+      "target": "Outlier screening method",
+      "mode": "Outline section reference"
+    },
+    {
+      "label": "Appendix A6",
+      "target": "A6 - Smaller-class sample sizes",
+      "cell": 233,
+      "execution_count": 91,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M1",
+      "target": "1.2 Reported fatalities - common values and rare extremes",
+      "cell": 26,
+      "execution_count": 11,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A7",
+      "target": "A7 - Highest reported fatality records",
+      "cell": 236,
+      "execution_count": 92,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A8",
+      "target": "A8 - Timing of high-fatality flags",
+      "cell": 239,
+      "execution_count": 93,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A9",
+      "target": "A9 - Monthly grouped count/share summary",
+      "cell": 242,
+      "execution_count": 94,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M11",
+      "target": "Figure M11 - Calendar patterns versus persistence",
+      "cell": 178,
+      "execution_count": 72,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A11",
+      "target": "A11 - Focal records by weekday",
+      "cell": 248,
+      "execution_count": 96,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M11",
+      "target": "Figure M11 - Calendar patterns versus persistence",
+      "cell": 178,
+      "execution_count": 72,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A11",
+      "target": "A11 - Focal records by weekday",
+      "cell": 248,
+      "execution_count": 96,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A12",
+      "target": "A12 - Changing district contribution",
+      "cell": 251,
+      "execution_count": 97,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A5",
+      "target": "A5 - Within-district focal prevalence",
+      "cell": 230,
+      "execution_count": 90,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A10",
+      "target": "A10 - Exploratory groups of weeks",
+      "cell": 245,
+      "execution_count": 95,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M13",
+      "target": "Figure M13 - Spatial concentration and precision sensitivity",
+      "cell": 198,
+      "execution_count": 80,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M13",
+      "target": "Figure M13 - Spatial concentration and precision sensitivity",
+      "cell": 198,
+      "execution_count": 80,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A13",
+      "target": "A13 - Largest coordinates and recording precision",
+      "cell": 254,
+      "execution_count": 98,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A13",
+      "target": "A13 - Largest coordinates and recording precision",
+      "cell": 254,
+      "execution_count": 98,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "method reference",
+      "target": "Spatial clustering method",
+      "mode": "Outline section reference"
+    },
+    {
+      "label": "period table",
+      "target": "2.1 Before and from October 7: counts, shares and rates",
+      "cell": 90,
+      "execution_count": 41,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M8",
+      "target": "Figure M8 - Period rates, focal shares and within-type evidence",
+      "cell": 130,
+      "execution_count": 53,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Task 4, Hypothesis A results",
+      "target": "4.2 Hypothesis A - Is focal share different between periods?",
+      "cell": 127,
+      "execution_count": 52,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Task 2, Figure M6 and focal cross-tabs",
+      "target": "2.5 Which actor labels and sub-event types occur together?",
+      "cell": 102,
+      "execution_count": 45,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "actor tables",
+      "target": "1.4 Recorded actor labels",
+      "cell": 46,
+      "execution_count": 21,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A1",
+      "target": "A1 - Recorded actor profiles",
+      "cell": 218,
+      "execution_count": 86,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M9",
+      "target": "4.3 Hypothesis B - Does focal share differ by event type?",
+      "cell": 134,
+      "execution_count": 55,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Task 5 spatial concentration tables",
+      "target": "Spatial input and concentration tables",
+      "cell": 193,
+      "execution_count": 78,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M13, map panels",
+      "target": "Figure M13 - Spatial concentration and precision sensitivity",
+      "cell": 198,
+      "execution_count": 80,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M13, concentration panel",
+      "target": "Figure M13 - Spatial concentration and precision sensitivity",
+      "cell": 198,
+      "execution_count": 80,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Appendix A13",
+      "target": "A13 - Largest coordinates and recording precision",
+      "cell": 254,
+      "execution_count": 98,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M10",
+      "target": "5.3 Which Gaza-wide weeks stand out?",
+      "cell": 157,
+      "execution_count": 64,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "district tables",
+      "target": "2.7 District-week counts",
+      "cell": 108,
+      "execution_count": 47,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M12",
+      "target": "Figure M12 - District counts, typical volume and variability",
+      "cell": 183,
+      "execution_count": 74,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M12",
+      "target": "Figure M12 - District counts, typical volume and variability",
+      "cell": 183,
+      "execution_count": 74,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M7, left",
+      "target": "2.10 Which measures move together, and which categories are associated?",
+      "cell": 117,
+      "execution_count": 50,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Task 5 local-history tables",
+      "target": "District-week screening and baseline sensitivity",
+      "cell": 163,
+      "execution_count": 67,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M5 and precision tables",
+      "target": "2.4 Does location precision change the focal share?",
+      "cell": 99,
+      "execution_count": 44,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "BQ5 supporting tables",
+      "target": "Supporting tables for BQ5",
+      "cell": 212,
+      "execution_count": 84,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "spatial tables",
+      "target": "Spatial input and concentration tables",
+      "cell": 193,
+      "execution_count": 78,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "Figure M14 and grid",
+      "target": "Figure M14 - How sensitive is spatial clustering to its settings?",
+      "cell": 202,
+      "execution_count": 82,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "local-history comparison",
+      "target": "District-week screening and baseline sensitivity",
+      "cell": 163,
+      "execution_count": 67,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "period table",
+      "target": "2.1 Before and from October 7: counts, shares and rates",
+      "cell": 90,
+      "execution_count": 41,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "M8",
+      "target": "Figure M8 - Period rates, focal shares and within-type evidence",
+      "cell": 130,
+      "execution_count": 53,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "M6",
+      "target": "2.5 Which actor labels and sub-event types occur together?",
+      "cell": 102,
+      "execution_count": 45,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "M9",
+      "target": "4.3 Hypothesis B - Does focal share differ by event type?",
+      "cell": 134,
+      "execution_count": 55,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "M1",
+      "target": "1.2 Reported fatalities - common values and rare extremes",
+      "cell": 26,
+      "execution_count": 11,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "A7",
+      "target": "A7 - Highest reported fatality records",
+      "cell": 236,
+      "execution_count": 92,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "A8",
+      "target": "A8 - Timing of high-fatality flags",
+      "cell": 239,
+      "execution_count": 93,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "M13",
+      "target": "Figure M13 - Spatial concentration and precision sensitivity",
+      "cell": 198,
+      "execution_count": 80,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "M10",
+      "target": "5.3 Which Gaza-wide weeks stand out?",
+      "cell": 157,
+      "execution_count": 64,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "local checks",
+      "target": "District-week screening and baseline sensitivity",
+      "cell": 163,
+      "execution_count": 67,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "M11",
+      "target": "Figure M11 - Calendar patterns versus persistence",
+      "cell": 178,
+      "execution_count": 72,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "M10",
+      "target": "5.3 Which Gaza-wide weeks stand out?",
+      "cell": 157,
+      "execution_count": 64,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "A5",
+      "target": "A5 - Within-district focal prevalence",
+      "cell": 230,
+      "execution_count": 90,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "M12",
+      "target": "Figure M12 - District counts, typical volume and variability",
+      "cell": 183,
+      "execution_count": 74,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "spatial tables",
+      "target": "Spatial input and concentration tables",
+      "cell": 193,
+      "execution_count": 78,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "M14",
+      "target": "Figure M14 - How sensitive is spatial clustering to its settings?",
+      "cell": 202,
+      "execution_count": 82,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "data guide",
+      "target": "Data guide - what is being counted?",
+      "mode": "Outline section reference"
+    },
+    {
+      "label": "Return to the main figure register",
+      "target": "Task 3 - Main figure register",
+      "mode": "Outline section reference"
+    },
+    {
+      "label": "original analysis",
+      "target": "1.4 Recorded actor labels",
+      "cell": 46,
+      "execution_count": 21,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "1.6 Where and when all events are recorded",
+      "cell": 78,
+      "execution_count": 36,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "2.2 Reported fatalities by focal status",
+      "cell": 93,
+      "execution_count": 42,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "2.6 Did the mix of event types change?",
+      "cell": 105,
+      "execution_count": 46,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "2.9 How does focal share vary within districts?",
+      "cell": 114,
+      "execution_count": 49,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "5.1 Are some groups too small for reliable comparison?",
+      "cell": 144,
+      "execution_count": 59,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "5.2 Which high-fatality records need review?",
+      "cell": 149,
+      "execution_count": 61,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "Figure A8 - When are flagged records concentrated?",
+      "cell": 154,
+      "execution_count": 63,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "5.4 Is there a longer-term direction?",
+      "cell": 169,
+      "execution_count": 69,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "Grouping complete weeks by recorded activity",
+      "cell": 187,
+      "execution_count": 76,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "Calendar comparison inputs",
+      "cell": 175,
+      "execution_count": 71,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "Figure M12 - District counts, typical volume and variability",
+      "cell": 183,
+      "execution_count": 74,
+      "mode": "VS Code exact saved code cell"
+    },
+    {
+      "label": "original analysis",
+      "target": "Figure M13 - Spatial concentration and precision sensitivity",
+      "cell": 198,
+      "execution_count": 80,
+      "mode": "VS Code exact saved code cell"
+    }
+  ],
+  "code_and_outputs_unchanged": true,
+  "cells": 256,
+  "sha256": "ad271e66f09a5723845116add2eb294f6d466093154c16b187df33b04f803423"
+}
