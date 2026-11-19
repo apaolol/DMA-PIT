@@ -19,6 +19,10 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
+# Local audit scripts
+audit.py
+/.final_redundancy_audit.py
+
 # Local credentials and environment settings
 .env
 .env.*
