@@ -1,0 +1,21 @@
+{
+  "DMA_Phase1.ipynb": "cbb9ceb4ed7c0d62de1e0eb9a589f5a9745c2128cc6581a5d3a36b5c636afa79",
+  "DMA_Phase2.ipynb": "b66b5e8d38c1d56c0e1b816d340bee06a2af645e27c262a9f601906058e57934",
+  "DMA_Phase3.ipynb": "ddb0a6d9976bcbbc7bdd7e008ec7dd7620636668dd5c81d04364d22e451a9c66",
+  "phase3_revision_tasks\\DMA_Phase3_EDA_Bivariate_Multivariate_Merged.ipynb": "ca5e89f777609365cfa9bdb2bb518c52b794d2a7a8ce6c3fb50541a79c9e5bc4",
+  "phase3_revision_tasks\\DMA_Phase3_Final_Complete.ipynb": "2e432768d6cb22a79f64dcff5894ae4edd69b1061e0bc7c82bd892678edf69a3",
+  "G7 DS312 PIT TOPICS.pdf": "c3a9d77ae014321f581bd4ea730aab86327b6d6dcc86e0982a6336d4921faac6",
+  "Phase3_EDA_Guide_G7.pdf": "1a69aa9e8dfdfd5aff0bd60c5f183127d49d93e0f23852bc21cb010812641717",
+  "[STUDENT] DS312_FINAL_PIT_GUIDE.pdf": "0b8f033415945a7692086a71af5e8fe3345b6f0e2da7a395eb361b53430f1225",
+  "data\\metadata\\acled_download_manifest.json": "d98d03a87cb198d5c47daf8e90e1629cfecbea4810507d82047d39e32cf4d6f0",
+  "data\\metadata\\acled_events_download_manifest.json": "b4db0782895a5baf5285beccaada68c3880dfebef3b5867fdd5f5e16a72c4805",
+  "data\\metadata\\acled_events_export_confirmation.png": "40860e221d1e090b623835c7e0e00ea5eb5ba23efbd880cab2ef4d0cd293cfc4",
+  "data\\metadata\\acled_export_confirmation.png": "e3417fadbd85bc860e5868b35a36a579a6ed501cdace6df74cd1a671ee99b587",
+  "data\\processed\\acled_district_week.csv": "064619832bb63f76a71081aa29685f6502f300f48f85084656731e2b3ade467f",
+  "data\\processed\\acled_events_clean.csv": "9bd32e308df1cc869798253647637613771c5e934031a7381e8603c731aff38e",
+  "data\\processed\\acled_focal_incidents.csv": "37d628926676dfa4aec7cd01dd42834bc48df6f9777b5412c713b2efdc543779",
+  "data\\processed\\acled_gaza_week.csv": "3de56f80fda2051f9aedbfd77865b8b65c22cafb0bae15795009403972c88182",
+  "data\\raw\\acled_palestine_aggregated_2016_2026.csv": "fc06617863c51ef846f07afaf9924609a914333d37e31c9a7b3b4d00ab64bb25",
+  "data\\raw\\acled_palestine_events_2022_2025.csv": "6de22d5723fc1dac54675c4e5c4c020dd56d8540463e86089a29b2cf8337be1c",
+  "C:\\Users\\USER\\Desktop\\eda\\Module_7_DS312_Cluster_Analysis.ipynb": "2708dbb2ce6e31149de07fccd5eb901f9c31054409310ad451fe79f04d7e9229"
+}

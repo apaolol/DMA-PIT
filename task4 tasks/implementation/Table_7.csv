@@ -1,0 +1,53 @@
+comparison,setting_a,setting_b,common_events,pair_jaccard,noise_status_agreement
+neighbor radii,"('full', 0.5, 10)","('full', 0.75, 10)",10583,0.9478,0.9995
+neighbor radii,"('full', 0.75, 10)","('full', 1.0, 10)",10583,0.6789,0.9996
+neighbor radii,"('full', 1.0, 10)","('full', 1.25, 10)",10583,0.5557,0.9991
+neighbor radii,"('full', 1.25, 10)","('full', 1.5, 10)",10583,0.5682,0.998
+neighbor radii,"('full', 1.5, 10)","('full', 2.0, 10)",10583,0.4355,0.9983
+neighbor radii,"('full', 2.0, 10)","('full', 3.0, 10)",10583,0.2463,0.9991
+neighbor radii,"('full', 0.5, 50)","('full', 0.75, 50)",10583,0.946,0.9852
+neighbor radii,"('full', 0.75, 50)","('full', 1.0, 50)",10583,0.6768,0.9871
+neighbor radii,"('full', 1.0, 50)","('full', 1.25, 50)",10583,0.5548,0.9912
+neighbor radii,"('full', 1.25, 50)","('full', 1.5, 50)",10583,0.5677,0.9941
+neighbor radii,"('full', 1.5, 50)","('full', 2.0, 50)",10583,0.4355,0.9872
+neighbor radii,"('full', 2.0, 50)","('full', 3.0, 50)",10583,0.2461,0.9852
+density,"('full', 0.5, 10)","('full', 0.5, 50)",10583,0.9917,0.9364
+density,"('full', 0.75, 10)","('full', 0.75, 50)",10583,0.9936,0.9508
+density,"('full', 1.0, 10)","('full', 1.0, 50)",10583,0.9968,0.9632
+density,"('full', 1.25, 10)","('full', 1.25, 50)",10583,0.9985,0.9712
+density,"('full', 1.5, 10)","('full', 1.5, 50)",10583,0.9993,0.9751
+density,"('full', 2.0, 10)","('full', 2.0, 50)",10583,0.9994,0.9861
+density,"('full', 3.0, 10)","('full', 3.0, 50)",10583,1.0,1.0
+neighbor radii,"('precision1', 0.5, 10)","('precision1', 0.75, 10)",7576,0.9766,0.9984
+neighbor radii,"('precision1', 0.75, 10)","('precision1', 1.0, 10)",7576,0.6879,0.9997
+neighbor radii,"('precision1', 1.0, 10)","('precision1', 1.25, 10)",7576,0.601,0.9978
+neighbor radii,"('precision1', 1.25, 10)","('precision1', 1.5, 10)",7576,0.5365,0.9976
+neighbor radii,"('precision1', 1.5, 10)","('precision1', 2.0, 10)",7576,0.4307,0.9984
+neighbor radii,"('precision1', 2.0, 10)","('precision1', 3.0, 10)",7576,0.2724,0.997
+neighbor radii,"('precision1', 0.5, 50)","('precision1', 0.75, 50)",7576,0.9736,0.9793
+neighbor radii,"('precision1', 0.75, 50)","('precision1', 1.0, 50)",7576,0.6823,0.9663
+neighbor radii,"('precision1', 1.0, 50)","('precision1', 1.25, 50)",7576,0.5997,0.9836
+neighbor radii,"('precision1', 1.25, 50)","('precision1', 1.5, 50)",7576,0.5358,0.9877
+neighbor radii,"('precision1', 1.5, 50)","('precision1', 2.0, 50)",7576,0.4304,0.9872
+neighbor radii,"('precision1', 2.0, 50)","('precision1', 3.0, 50)",7576,0.2724,0.9879
+density,"('precision1', 0.5, 10)","('precision1', 0.5, 50)",7576,0.9846,0.9031
+density,"('precision1', 0.75, 10)","('precision1', 0.75, 50)",7576,0.9876,0.9223
+density,"('precision1', 1.0, 10)","('precision1', 1.0, 50)",7576,0.9957,0.9556
+density,"('precision1', 1.25, 10)","('precision1', 1.25, 50)",7576,0.998,0.9698
+density,"('precision1', 1.5, 10)","('precision1', 1.5, 50)",7576,0.9993,0.9797
+density,"('precision1', 2.0, 10)","('precision1', 2.0, 50)",7576,0.9999,0.9909
+density,"('precision1', 3.0, 10)","('precision1', 3.0, 50)",7576,1.0,1.0
+precision restriction,"('full', 0.5, 10)","('precision1', 0.5, 10)",7576,0.9998,0.9935
+precision restriction,"('full', 0.5, 50)","('precision1', 0.5, 50)",7576,0.9929,0.9579
+precision restriction,"('full', 0.75, 10)","('precision1', 0.75, 10)",7576,0.9999,0.9945
+precision restriction,"('full', 0.75, 50)","('precision1', 0.75, 50)",7576,0.994,0.9636
+precision restriction,"('full', 1.0, 10)","('precision1', 1.0, 10)",7576,0.9999,0.9945
+precision restriction,"('full', 1.0, 50)","('precision1', 1.0, 50)",7576,0.9988,0.984
+precision restriction,"('full', 1.25, 10)","('precision1', 1.25, 10)",7576,1.0,0.996
+precision restriction,"('full', 1.25, 50)","('precision1', 1.25, 50)",7576,0.9995,0.9901
+precision restriction,"('full', 1.5, 10)","('precision1', 1.5, 10)",7576,1.0,0.997
+precision restriction,"('full', 1.5, 50)","('precision1', 1.5, 50)",7576,1.0,0.9995
+precision restriction,"('full', 2.0, 10)","('precision1', 2.0, 10)",7576,0.9999,0.9971
+precision restriction,"('full', 2.0, 50)","('precision1', 2.0, 50)",7576,1.0,0.9995
+precision restriction,"('full', 3.0, 10)","('precision1', 3.0, 10)",7576,1.0,1.0
+precision restriction,"('full', 3.0, 50)","('precision1', 3.0, 50)",7576,1.0,1.0

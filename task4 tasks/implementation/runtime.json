@@ -1,0 +1,8 @@
+{
+  "python": "3.12.8 (main, Dec  6 2024, 18:10:20) [MSC v.1942 64 bit (AMD64)]",
+  "executable": "C:\\Users\\USER\\AppData\\Roaming\\uv\\python\\cpython-3.12.8-windows-x86_64-none\\python.exe",
+  "pandas": "3.1.1",
+  "numpy": "2.5.5",
+  "sklearn": "1.9.1",
+  "seed": 42
+}

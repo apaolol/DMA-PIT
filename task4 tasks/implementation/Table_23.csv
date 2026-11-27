@@ -1,0 +1,21 @@
+candidate,admin2,assessment_calendar_rows,excluded_partial_weeks,excluded_partial_week_start,forest_scored,mad_scored,common_scored,forest_alerts,mad_alerts,both,forest_only,mad_only,neither,alert_jaccard
+count_lag1__32,Deir El Balah,25,1,2025-09-27,25,25,25,0,2,0,0,2,23,0.0
+count_lag1__32,Gaza City,25,1,2025-09-27,25,25,25,7,4,1,6,3,15,0.1
+count_lag1__32,Khan Yunis,25,1,2025-09-27,25,25,25,9,3,3,6,0,16,0.333
+count_lag1__32,North Gaza,25,1,2025-09-27,25,20,20,4,2,0,4,2,14,0.0
+count_lag1__32,Rafah,25,1,2025-09-27,25,25,25,7,0,0,7,0,18,0.0
+count_lag1__auto,Deir El Balah,25,1,2025-09-27,25,25,25,0,2,0,0,2,23,0.0
+count_lag1__auto,Gaza City,25,1,2025-09-27,25,25,25,3,4,0,3,4,18,0.0
+count_lag1__auto,Khan Yunis,25,1,2025-09-27,25,25,25,9,3,3,6,0,16,0.333
+count_lag1__auto,North Gaza,25,1,2025-09-27,25,20,20,4,2,0,4,2,14,0.0
+count_lag1__auto,Rafah,25,1,2025-09-27,25,25,25,8,0,0,8,0,17,0.0
+count_lag1_prior4__32,Deir El Balah,25,1,2025-09-27,25,25,25,0,2,0,0,2,23,0.0
+count_lag1_prior4__32,Gaza City,25,1,2025-09-27,25,25,25,8,4,1,7,3,14,0.091
+count_lag1_prior4__32,Khan Yunis,25,1,2025-09-27,25,25,25,11,3,3,8,0,14,0.273
+count_lag1_prior4__32,North Gaza,25,1,2025-09-27,25,20,20,2,2,0,2,2,16,0.0
+count_lag1_prior4__32,Rafah,25,1,2025-09-27,25,25,25,7,0,0,7,0,18,0.0
+count_lag1_prior4__auto,Deir El Balah,25,1,2025-09-27,25,25,25,0,2,0,0,2,23,0.0
+count_lag1_prior4__auto,Gaza City,25,1,2025-09-27,25,25,25,7,4,1,6,3,15,0.1
+count_lag1_prior4__auto,Khan Yunis,25,1,2025-09-27,25,25,25,10,3,3,7,0,15,0.3
+count_lag1_prior4__auto,North Gaza,25,1,2025-09-27,25,20,20,2,2,0,2,2,16,0.0
+count_lag1_prior4__auto,Rafah,25,1,2025-09-27,25,25,25,9,0,0,9,0,16,0.0

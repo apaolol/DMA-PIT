@@ -1,0 +1,7 @@
+from workflow import *
+run([code('''episode_keys=counts.loc[counts.window.eq(8)&counts.direction.eq('high')&counts.week_start.between('2025-02-01','2025-04-30'),['admin2','week_start']]
+episode=counts.merge(episode_keys,on=['admin2','week_start'],validate='many_to_one')
+table(episode[['admin2','week_start','window','focal_events','political_events','baseline','history_MAD','score','direction','recent4_median','preceding4_median']].round(3),'Table 20: Early-2025 upward screens across windows')
+report('**Table 20 interpretation.** These weeks are selected transparently because the eight-week screen flags an increase during February-April 2025; they are not a complete or independently labeled recovery set. Longer windows change the median/MAD and which weeks remain flagged. The narrow four-versus-four-week rebound tag in Table 15 matches none of the high alerts: it does not capture a prolonged trough when both preceding blocks are low. It is therefore not evidence that trough recovery is absent. Table 20 gives the actual counts and baselines for reviewing this sensitivity without relabeling events.')
+''')],5)
+complete(5,'Additional sensitivity evidence: Table 20 compares actual February-April 2025 eight-week upward screens across all windows. The narrow four-versus-four-week rebound tag matches no high alerts and its failure to capture prolonged troughs is explicitly disclosed; no rule was retuned to manufacture matches.')

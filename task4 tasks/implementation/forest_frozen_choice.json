@@ -1,0 +1,13 @@
+{
+  "candidate": "count_lag1__32",
+  "calibration_end": "2025-03-29",
+  "assessment_start": "2025-04-05",
+  "criterion": "smallest feature set; tuning burden nearest 10%; tie max_samples 32",
+  "cutoffs": {
+    "Deir El Balah": 0.6699160442734664,
+    "Gaza City": 0.5980170502037242,
+    "Khan Yunis": 0.5510549078327953,
+    "North Gaza": 0.5533715807905233,
+    "Rafah": 0.5700574578374992
+  }
+}

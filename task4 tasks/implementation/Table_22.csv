@@ -1,0 +1,21 @@
+candidate,admin2,feature_count,max_samples,training_rows,tuning_rows,cutoff,tuning_alerts,tuning_rate
+count_lag1__32,Deir El Balah,2,32,51,26,0.6699,0,0.0
+count_lag1__auto,Deir El Balah,2,auto,51,26,0.7045,0,0.0
+count_lag1_prior4__32,Deir El Balah,3,32,48,26,0.6627,0,0.0
+count_lag1_prior4__auto,Deir El Balah,3,auto,48,26,0.7011,0,0.0
+count_lag1__32,Gaza City,2,32,51,26,0.598,0,0.0
+count_lag1__auto,Gaza City,2,auto,51,26,0.6305,0,0.0
+count_lag1_prior4__32,Gaza City,3,32,48,26,0.6054,0,0.0
+count_lag1_prior4__auto,Gaza City,3,auto,48,26,0.6245,0,0.0
+count_lag1__32,Khan Yunis,2,32,51,26,0.5511,2,0.0769
+count_lag1__auto,Khan Yunis,2,auto,51,26,0.5808,2,0.0769
+count_lag1_prior4__32,Khan Yunis,3,32,48,26,0.5564,2,0.0769
+count_lag1_prior4__auto,Khan Yunis,3,auto,48,26,0.5627,2,0.0769
+count_lag1__32,North Gaza,2,32,51,23,0.5534,2,0.087
+count_lag1__auto,North Gaza,2,auto,51,23,0.5429,2,0.087
+count_lag1_prior4__32,North Gaza,3,32,48,20,0.5948,1,0.05
+count_lag1_prior4__auto,North Gaza,3,auto,48,20,0.575,1,0.05
+count_lag1__32,Rafah,2,32,51,26,0.5701,2,0.0769
+count_lag1__auto,Rafah,2,auto,51,26,0.5707,2,0.0769
+count_lag1_prior4__32,Rafah,3,32,48,26,0.5938,2,0.0769
+count_lag1_prior4__auto,Rafah,3,auto,48,26,0.5898,2,0.0769

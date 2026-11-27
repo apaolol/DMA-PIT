@@ -1,0 +1,4 @@
+windows,common_scored,alerts_a,alerts_b,both,either,alert_jaccard
+8 vs 12,441,48,34,23,59,0.39
+12 vs 16,417,34,22,16,40,0.4
+8 vs 16,417,46,22,14,54,0.259

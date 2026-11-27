@@ -1,0 +1,46 @@
+window,metric,reason,rows
+8,focal_events,ineligible earlier calendar week,8
+8,focal_events,insufficient earlier calendar weeks,40
+8,focal_events,partial current week,5
+8,focal_events,scored,465
+8,focal_events,undefined current denominator,2
+8,focal_share,ineligible earlier calendar week,8
+8,focal_share,insufficient earlier calendar weeks,40
+8,focal_share,partial current week,5
+8,focal_share,scored,465
+8,focal_share,undefined current denominator,2
+8,political_events,ineligible earlier calendar week,8
+8,political_events,insufficient earlier calendar weeks,40
+8,political_events,partial current week,5
+8,political_events,scored,465
+8,political_events,undefined current denominator,2
+12,focal_events,ineligible earlier calendar week,12
+12,focal_events,insufficient earlier calendar weeks,60
+12,focal_events,partial current week,5
+12,focal_events,scored,441
+12,focal_events,undefined current denominator,2
+12,focal_share,ineligible earlier calendar week,12
+12,focal_share,insufficient earlier calendar weeks,60
+12,focal_share,partial current week,5
+12,focal_share,scored,441
+12,focal_share,undefined current denominator,2
+12,political_events,ineligible earlier calendar week,12
+12,political_events,insufficient earlier calendar weeks,60
+12,political_events,partial current week,5
+12,political_events,scored,441
+12,political_events,undefined current denominator,2
+16,focal_events,ineligible earlier calendar week,16
+16,focal_events,insufficient earlier calendar weeks,80
+16,focal_events,partial current week,5
+16,focal_events,scored,417
+16,focal_events,undefined current denominator,2
+16,focal_share,ineligible earlier calendar week,16
+16,focal_share,insufficient earlier calendar weeks,80
+16,focal_share,partial current week,5
+16,focal_share,scored,417
+16,focal_share,undefined current denominator,2
+16,political_events,ineligible earlier calendar week,16
+16,political_events,insufficient earlier calendar weeks,80
+16,political_events,partial current week,5
+16,political_events,scored,417
+16,political_events,undefined current denominator,2

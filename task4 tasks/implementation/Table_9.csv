@@ -1,0 +1,13 @@
+population,cluster,records,districts,main_place,start,end,coordinate_pairs,repeated_coordinate_pct,precision1_pct
+full,1,852,Gaza City,Gaza - Shujaiyya,2023-10-07,2025-09-30,4,99.53,79.34
+full,0,771,Khan Yunis,Khan Yunis - West (Municipal Stadium),2023-10-07,2025-09-30,7,99.09,66.54
+full,9,537,Rafah,Rafah,2023-10-07,2025-09-27,7,98.7,64.8
+full,7,491,Gaza City,Gaza - Az Zaytun,2023-10-07,2025-09-30,1,99.8,83.3
+full,11,440,Deir El Balah,An Nusayrat - Unspecified,2023-10-08,2025-09-30,1,99.77,89.55
+full,8,435,North Gaza,Jabalya,2023-10-07,2025-09-12,1,99.77,82.07
+precision1,1,676,Gaza City,Gaza - Shujaiyya,2023-10-07,2025-09-30,4,99.41,100.0
+precision1,0,513,Khan Yunis,Khan Yunis - Unspecified,2023-10-07,2025-09-30,7,98.64,100.0
+precision1,5,409,Gaza City,Gaza - Az Zaytun,2023-10-07,2025-09-30,1,99.76,100.0
+precision1,9,394,Deir El Balah,An Nusayrat - Unspecified,2023-10-08,2025-09-30,1,99.75,100.0
+precision1,6,357,North Gaza,Jabalya,2023-10-07,2025-09-12,1,99.72,100.0
+precision1,7,348,Rafah,Rafah,2023-10-07,2025-09-27,7,97.99,100.0

@@ -1,0 +1,8 @@
+category,admin2,week_start,focal_events,political_events,focal_share,previous_week_focal,anomaly_score,cutoff,mad_score,direction,baseline
+Forest only,Gaza City,2025-09-13,84,113,0.743,79.0,0.7,0.598,2.381,none,54.0
+Forest only,Gaza City,2025-09-20,77,131,0.588,84.0,0.696,0.598,1.114,none,58.0
+Forest only,Gaza City,2025-09-06,79,97,0.814,69.0,0.666,0.598,2.341,none,49.5
+MAD flagged,Deir El Balah,2025-04-05,19,31,0.613,17.0,0.449,0.67,6.97,high,3.5
+MAD flagged,North Gaza,2025-08-23,18,24,0.75,11.0,0.478,0.553,6.745,high,8.0
+Neither; high raw count,Gaza City,2025-08-23,59,94,0.628,44.0,0.561,0.598,1.461,none,46.0
+Neither; high raw count,Gaza City,2025-06-28,51,81,0.63,48.0,0.554,0.598,2.226,none,34.5
